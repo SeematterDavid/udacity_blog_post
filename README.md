@@ -27,7 +27,7 @@ Is it possible to predict prices of air bnb objects with the data and model at h
 
 ## File Descriptions <a name="files"></a>
 
-'antwerpen.csv' contains Antwerpen 2020 airbnb data 'antwerpen_analysis.ipynb' notebook showcsaes the overall work and the flow to derive answers for the 3 business Questions I am focussing upon.
+'listings_antwerpen.csv' contains Antwerpen 2020 airbnb data 'antwerpen_analysis.ipynb' notebook showcsaes the overall work and the flow to derive answers for the 3 business Questions I am focussing upon.
 
 ## Results<a name="results"></a>
 
